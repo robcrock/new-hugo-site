@@ -1,4 +1,4 @@
-baseURL = "https://github.com/outsitecoliving/new-hugo-site"
+baseURL = "https://github.com/robcrock/new-hugo-site"
 # baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Bali // Canggu"
